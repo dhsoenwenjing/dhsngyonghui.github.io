@@ -1,4 +1,4 @@
-.main-list {
+ul {
   color: teal; text-transform: uppercase
 }
 
@@ -8,7 +8,6 @@ p {
 
 h1 {
   color: maroon;
-}
 
 .title {
   color: teal;
