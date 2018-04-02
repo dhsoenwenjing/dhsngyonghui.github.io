@@ -1,6 +1,5 @@
-ul {
-  color: teal; text-transform: capitalize
-}
+
+
 
 p {
   font-family: cursive;
@@ -9,15 +8,11 @@ p {
 h1 {
   color: maroon;
 
-.title {
+title {
   color: teal;
 }
 
-.uppercase {
-  text-transform: uppercase;
-}
-
-.publish-time {
+.gray {
   color: gray;
 }
 
@@ -29,6 +24,3 @@ h1 {
   text-transform: capitalize;
 }
 
-h2.destination{
-  font-family: cursive;
-}
