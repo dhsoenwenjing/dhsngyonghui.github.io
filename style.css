@@ -1,4 +1,6 @@
-
+ul {
+  color: teal; font-family: uppercase;
+}
 
 
 p {
@@ -12,15 +14,6 @@ title {
   color: teal;
 }
 
-.gray {
-  color: gray;
-}
-
-.cursive {
-  font-family: cursive;
-}
-
-.capitalize{
-  text-transform: capitalize;
-}
-
+.paint {
+  color: maroon;
+  }
